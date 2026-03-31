@@ -1,2 +1,7 @@
 Hello world!
+<<<<<<< HEAD
 My name is Kangmin.
+=======
+My student number
+is 2025-13708
+>>>>>>> student_id
